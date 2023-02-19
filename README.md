@@ -6,6 +6,7 @@
 - 🤔 Estudando Frameworks: Django, QtCreator(C++), QtDesign(Python), PostgreSQL e MySQL.
 - 💬 Me interesso por ciências em geral: astronomia (sou astronomo amador 🔭), computadores e hardware (gosto de desmontar coisas e monta-las novamente)
 - 📫 E-mail: fernando.quimic@gmail.com
+
 -:no_entry_sign: Não me defina por isto acima.
 
 
