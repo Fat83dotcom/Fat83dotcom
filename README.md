@@ -1,16 +1,14 @@
-### Hi there 👋
+# Fernando Mendes
 
-<!--
-**Fat83dotcom/Fat83dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente faço Análise e Desenvolvimento de Sistemas
+- 🌱 Principais linguagens que estou aprendendo e me aprofundando: Python, C, C++, SQL.
+- 🤔 Estudando Frameworks: Django, QtCreator(C++), QtDesign(Python), PostgreSQL e MySQL.
+- 💬 Me interesso por ciências em geral: astronomia (sou astronomo amador 🔭), computadores e hardware (gosto de desmontar coisas e monta-las novamente)
+- 📫 E-mail: fernando.quimic@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/Fat83dotcom">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fat83dotcom&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fat83dotcom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
