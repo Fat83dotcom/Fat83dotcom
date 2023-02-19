@@ -1,7 +1,7 @@
 # Fernando Mendes
 
 
-- 🔭 Atualmente faço Análise e Desenvolvimento de Sistemas.
+- 🔭 Análise e Desenvolvimento de Sistemas.
 - 🌱 Principais linguagens que estou aprendendo e me aprofundando: Python, C, C++, SQL.
 - 🤔 Estudando Frameworks: Django, QtCreator(C++), QtDesign(Python), PostgreSQL e MySQL.
 - 💬 Me interesso por ciências em geral: astronomia (sou astronomo amador 🔭), computadores e hardware (gosto de desmontar coisas e monta-las novamente).
