@@ -4,7 +4,7 @@
 - 🔭 Análise e Desenvolvimento de Sistemas.
 - 🌱 Principais linguagens que estou aprendendo e me aprofundando: Python, C, C++, SQL.
 - 🤔 Estudando Frameworks: Django, QtCreator(C++), QtDesign(Python), PostgreSQL e MySQL.
-- 💬 Me interesso por ciências em geral: astronomia (sou astronomo amador 🔭), computadores e hardware (gosto de desmontar coisas e monta-las novamente).
+- 💬 Me interesso por ciências em geral: astronomia (sou astronomo amador 🔭), computadores e hardware (gosto de desmontar coisas e monta-las novamente), Arduíno, ESP32, eletrônica e mais...
 - 📫 E-mail: fernando.quimic@gmail.com
 - :no_entry_sign: Não me defina por isto acima.
 
