@@ -9,9 +9,7 @@
 
 
 <div>
-<a href="https://github.com/Fat83dotcom">
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Fat83dotcom]"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fat83dotcom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 </div>
 
 <div style="display: flex; justify-content: center; align-content: center;">
