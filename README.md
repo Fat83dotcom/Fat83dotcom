@@ -2,8 +2,10 @@
 
 
 - 🔭 Análise e Desenvolvimento de Sistemas.
-- 🌱 Principais linguagens que estou aprendendo e me aprofundando: Python, C, C++, SQL.
-- 🤔 Estudando Frameworks: Django, QtCreator(C++), QtDesign(Python), PostgreSQL e MySQL.
+- 🌱 Principais linguagens: Python, Java Script, C, C++, SQL.
+- 🌱 Banco de Dados: PostgreSQL, MongoDB
+- 🌱 Frameworks: Django, Django Rest Framework, QtCreator(C++), QtDesign(Python).
+- 💬 Desenvolvo aplicativos WEB, Scrapings, Crawlers, modelagem de dados nas tecnologias descritas acima.
 - 💬 Me interesso por ciências em geral: astronomia (sou astronômo amador 🔭), computadores e hardware (gosto de desmontar coisas e monta-las novamente), Arduíno, ESP32, eletrônica e mais...
 
 
